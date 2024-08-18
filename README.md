@@ -17,3 +17,6 @@ The data spans multiple versions of the game, tracking updates and changes over 
 To view the analytical dashboard in streamlit use the below link:
 https://pi6pr2xtza3mpalkzqmkqn.streamlit.app/
 
+Resources Used:
+Kaggle, GenAI tools (ChatGPT & Copilot) and Prof Amarnath Mitra's Codes
+
